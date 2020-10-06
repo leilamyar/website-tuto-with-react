@@ -1,4 +1,4 @@
-This project builds the same website as on [the YT tuto "HTML5 & CSS Development: Learn How to Build a Professional Website | Udemy, Jordan Hudgens"](https://www.youtube.com/watch?v=5bMdjkfvONE)
+This project builds the same website as on the YT tuto ["HTML5 & CSS Development: Learn How to Build a Professional Website"](https://www.youtube.com/watch?v=5bMdjkfvONE).
 
 ---------------
 
